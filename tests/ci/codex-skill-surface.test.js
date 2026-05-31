@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview codex skill surface.test
+ * @tags #utils
+ */
 #!/usr/bin/env node
 /**
  * Validate the Codex-facing .agents/skills surface.

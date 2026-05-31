@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview governance capture.test
+ * @tags #infrastructure
+ */
 /**
  * Tests for governance event capture hook.
  */

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview operator readiness dashboard
+ * @tags #utils
+ */
 #!/usr/bin/env node
 'use strict';
 

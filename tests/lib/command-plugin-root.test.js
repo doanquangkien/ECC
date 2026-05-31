@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview command plugin root.test
+ * @tags #infrastructure #config
+ */
 'use strict';
 
 const fs = require('fs');

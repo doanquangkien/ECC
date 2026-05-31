@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview block no verify
+ * @tags #infrastructure #auth
+ */
 #!/usr/bin/env node
 /**
  * PreToolUse Hook: Block --no-verify flag

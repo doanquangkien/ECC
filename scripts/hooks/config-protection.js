@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview config protection
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Config Protection Hook

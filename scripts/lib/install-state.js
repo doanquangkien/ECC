@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview install state
+ * @tags #infrastructure
+ */
 const fs = require('fs');
 const path = require('path');
 

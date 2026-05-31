@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview supply chain advisory sources.test
+ * @tags #auth
+ */
 #!/usr/bin/env node
 /**
  * Validate the supply-chain advisory source refresh report.

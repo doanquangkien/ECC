@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview catalog.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/catalog.js
  */

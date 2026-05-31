@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview legacy artifact inventory.test
+ * @tags #utils
+ */
 'use strict';
 
 const assert = require('assert');

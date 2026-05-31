@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview preview pack smoke.test
+ * @tags #utils
+ */
 'use strict';
 
 const assert = require('assert');

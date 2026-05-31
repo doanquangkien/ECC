@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview pre bash commit quality
+ * @tags #infrastructure #utils
+ */
 #!/usr/bin/env node
 /**
  * PreToolUse Hook: Pre-commit Quality Check

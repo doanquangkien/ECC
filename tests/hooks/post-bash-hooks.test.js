@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview post bash hooks.test
+ * @tags #infrastructure
+ */
 /**
  * Tests for post-bash-build-complete.js and post-bash-pr-created.js
  *

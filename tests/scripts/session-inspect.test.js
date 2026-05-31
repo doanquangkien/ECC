@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview session inspect.test
+ * @tags #dashboard
+ */
 /**
  * Tests for scripts/session-inspect.js
  */

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview github discussions
+ * @tags #infrastructure
+ */
 'use strict';
 
 const { spawnSync } = require('child_process');

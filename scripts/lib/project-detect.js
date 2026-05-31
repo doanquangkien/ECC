@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview project detect
+ * @tags #infrastructure
+ */
 /**
  * Project type and framework detection
  *

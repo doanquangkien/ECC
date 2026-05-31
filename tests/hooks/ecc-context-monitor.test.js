@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview ecc context monitor.test
+ * @tags #infrastructure
+ */
 /**
  * Tests for scripts/hooks/ecc-context-monitor.js
  *

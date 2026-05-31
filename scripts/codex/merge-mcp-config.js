@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview merge mcp config
+ * @tags #utils
+ */
 #!/usr/bin/env node
 'use strict';
 

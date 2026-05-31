@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview utils.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/lib/utils.js
  *

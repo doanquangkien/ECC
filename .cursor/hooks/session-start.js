@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview session start
+ * @tags #infrastructure #dashboard
+ */
 #!/usr/bin/env node
 const { readStdin, runExistingHook, transformToClaude, hookEnabled } = require('./adapter');
 readStdin().then(raw => {

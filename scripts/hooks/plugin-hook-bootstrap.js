@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview plugin hook bootstrap
+ * @tags #infrastructure #config
+ */
 #!/usr/bin/env node
 'use strict';
 

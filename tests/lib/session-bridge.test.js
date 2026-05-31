@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview session bridge.test
+ * @tags #dashboard
+ */
 /**
  * Tests for scripts/lib/session-bridge.js
  *

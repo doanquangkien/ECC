@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview loop status.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/loop-status.js
  */

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview observations
+ * @tags #infrastructure
+ */
 'use strict';
 
 const fs = require('fs');

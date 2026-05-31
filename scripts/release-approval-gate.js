@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview release approval gate
+ * @tags #utils
+ */
 #!/usr/bin/env node
 'use strict';
 

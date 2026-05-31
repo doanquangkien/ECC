@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview build opencode
+ * @tags #infrastructure #config
+ */
 #!/usr/bin/env node
 
 const fs = require("node:fs")

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview resolve ecc root
+ * @tags #infrastructure
+ */
 'use strict';
 
 const fs = require('fs');

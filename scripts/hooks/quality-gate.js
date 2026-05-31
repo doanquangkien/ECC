@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview quality gate
+ * @tags #infrastructure #utils
+ */
 #!/usr/bin/env node
 /**
  * Quality Gate Hook

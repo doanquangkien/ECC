@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview scan supply chain iocs.test
+ * @tags #auth
+ */
 #!/usr/bin/env node
 /**
  * Validate the active supply-chain IOC scanner.

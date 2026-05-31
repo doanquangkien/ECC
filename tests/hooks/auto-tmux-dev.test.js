@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview auto tmux dev.test
+ * @tags #infrastructure
+ */
 /**
  * Tests for scripts/hooks/auto-tmux-dev.js
  *

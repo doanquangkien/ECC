@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview cursor agent names
+ * @tags #infrastructure
+ */
 'use strict';
 
 const path = require('path');

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview session adapters.test
+ * @tags #dashboard
+ */
 'use strict';
 
 const assert = require('assert');

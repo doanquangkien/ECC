@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview hook flags
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Shared hook enable/disable controls.

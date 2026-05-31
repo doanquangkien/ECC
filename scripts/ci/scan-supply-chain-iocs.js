@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview scan supply chain iocs
+ * @tags #infrastructure #auth
+ */
 #!/usr/bin/env node
 /**
  * Scan dependency manifests, lockfiles, AI-tool configs, and installed package

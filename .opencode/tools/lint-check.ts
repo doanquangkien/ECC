@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview lint check
+ * @tags #infrastructure #utils #config #backend
+ */
 /**
  * ECC Custom Tool: Lint Check
  *

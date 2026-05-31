@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview evaluate session.test
+ * @tags #infrastructure #dashboard
+ */
 /**
  * Tests for scripts/hooks/evaluate-session.js
  *

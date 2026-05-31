@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview post bash command log
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 'use strict';
 

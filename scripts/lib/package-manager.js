@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview package manager
+ * @tags #infrastructure
+ */
 /**
  * Package Manager Detection and Selection
  * Automatically detects the preferred package manager or lets user choose

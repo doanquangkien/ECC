@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview ecc.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/ecc.js
  */

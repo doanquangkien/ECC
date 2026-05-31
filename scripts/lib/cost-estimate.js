@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview cost estimate
+ * @tags #infrastructure #dashboard
+ */
 'use strict';
 
 /**

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview pre write doc warn
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Backward-compatible doc warning hook entrypoint.

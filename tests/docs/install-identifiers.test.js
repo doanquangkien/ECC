@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview install identifiers.test
+ * @tags #utils
+ */
 'use strict';
 
 const assert = require('assert');

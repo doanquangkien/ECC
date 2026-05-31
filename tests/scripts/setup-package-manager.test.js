@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview setup package manager.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/setup-package-manager.js
  *

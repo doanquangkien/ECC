@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview supply chain watch workflow.test
+ * @tags #auth
+ */
 #!/usr/bin/env node
 /**
  * Validate the scheduled supply-chain watch workflow contract.

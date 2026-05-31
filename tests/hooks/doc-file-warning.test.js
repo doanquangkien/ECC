@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview doc file warning.test
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 'use strict';
 

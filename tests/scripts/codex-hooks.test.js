@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview codex hooks.test
+ * @tags #infrastructure
+ */
 /**
  * Tests for Codex shell helpers.
  */

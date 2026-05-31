@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview suggest compact
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Strategic Compact Suggester

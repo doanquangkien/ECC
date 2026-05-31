@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview eslint.config
+ * @tags #utils
+ */
 const js = require('@eslint/js');
 const globals = require('globals');
 

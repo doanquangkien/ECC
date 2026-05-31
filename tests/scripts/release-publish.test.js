@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview release publish.test
+ * @tags #utils
+ */
 'use strict';
 
 const assert = require('assert');

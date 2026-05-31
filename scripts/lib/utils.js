@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview utils
+ * @tags #infrastructure
+ */
 /**
  * Cross-platform utility functions for Claude Code hooks and scripts
  * Works on Windows, macOS, and Linux

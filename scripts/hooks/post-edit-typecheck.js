@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview post edit typecheck
+ * @tags #infrastructure #utils
+ */
 #!/usr/bin/env node
 /**
  * PostToolUse Hook: TypeScript check after editing .ts/.tsx files

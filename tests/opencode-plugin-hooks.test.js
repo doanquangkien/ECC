@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview opencode plugin hooks.test
+ * @tags #infrastructure #config
+ */
 /**
  * Tests for the published OpenCode hook plugin surface.
  */

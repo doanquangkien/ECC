@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview supply chain advisory sources
+ * @tags #infrastructure #auth
+ */
 #!/usr/bin/env node
 /**
  * Build a refreshable source report for active supply-chain advisories.

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview ecc metrics bridge
+ * @tags #infrastructure #dashboard
+ */
 #!/usr/bin/env node
 /**
  * ECC Metrics Bridge — PostToolUse hook

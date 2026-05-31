@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview generate
+ * @tags #utils #backend
+ */
 #!/usr/bin/env node
 /**
  * scripts/codemaps/generate.ts

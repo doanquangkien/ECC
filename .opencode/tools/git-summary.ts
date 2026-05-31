@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview git summary
+ * @tags #infrastructure #config #backend
+ */
 /**
  * ECC Custom Tool: Git Summary
  *

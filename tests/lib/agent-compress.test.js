@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview agent compress.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/lib/agent-compress.js
  *

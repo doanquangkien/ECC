@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview validate skills
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Validate curated skill directories (skills/ in repo).

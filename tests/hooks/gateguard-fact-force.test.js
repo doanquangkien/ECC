@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview gateguard fact force.test
+ * @tags #infrastructure
+ */
 /**
  * Tests for scripts/hooks/gateguard-fact-force.js via run-with-flags.js
  */

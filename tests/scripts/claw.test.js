@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview claw.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/claw.js
  *

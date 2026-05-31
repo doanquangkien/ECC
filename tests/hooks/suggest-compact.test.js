@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview suggest compact.test
+ * @tags #infrastructure
+ */
 /**
  * Tests for scripts/hooks/suggest-compact.js
  *

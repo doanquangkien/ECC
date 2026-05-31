@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview claude project
+ * @tags #infrastructure
+ */
 const path = require('path');
 
 const {

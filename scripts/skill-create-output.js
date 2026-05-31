@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview skill create output
+ * @tags #utils
+ */
 #!/usr/bin/env node
 /**
  * Skill Creator - Pretty Output Formatter

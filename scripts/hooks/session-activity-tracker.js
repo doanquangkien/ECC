@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview session activity tracker
+ * @tags #infrastructure #dashboard
+ */
 #!/usr/bin/env node
 /**
  * Session Activity Tracker Hook

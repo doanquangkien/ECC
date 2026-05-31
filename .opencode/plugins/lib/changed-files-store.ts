@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview changed files store
+ * @tags #infrastructure #config #backend
+ */
 import * as path from "path"
 
 export type ChangeType = "added" | "modified" | "deleted"

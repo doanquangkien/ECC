@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview adapter
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Cursor-to-Claude Code Hook Adapter

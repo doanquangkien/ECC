@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview generate command registry
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Generate a deterministic command-to-agent/skill registry.

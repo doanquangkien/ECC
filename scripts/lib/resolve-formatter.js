@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview resolve formatter
+ * @tags #infrastructure #utils
+ */
 /**
  * Shared formatter resolution utilities with caching.
  *

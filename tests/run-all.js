@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview run all
+ * @tags #utils
+ */
 #!/usr/bin/env node
 /**
  * Run all tests

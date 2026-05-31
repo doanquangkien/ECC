@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview ecc metrics bridge.test
+ * @tags #infrastructure #dashboard
+ */
 /**
  * Tests for scripts/hooks/ecc-metrics-bridge.js
  *

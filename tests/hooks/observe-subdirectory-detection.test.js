@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview observe subdirectory detection.test
+ * @tags #infrastructure
+ */
 /**
  * Tests for observe.sh subdirectory project detection.
  *

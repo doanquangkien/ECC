@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview harness adapter compliance.test
+ * @tags #utils
+ */
 'use strict';
 
 const assert = require('assert');

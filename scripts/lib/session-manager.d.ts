@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview session manager.d
+ * @tags #infrastructure #dashboard #backend
+ */
 /**
  * Session Manager Library for Claude Code.
  * Provides CRUD operations for session files stored as markdown in

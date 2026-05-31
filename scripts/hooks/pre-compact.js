@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview pre compact
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * PreCompact Hook - Save state before context compaction

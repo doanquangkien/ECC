@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview ecc dashboard.test
+ * @tags #utils
+ */
 /**
  * Behavioral tests for ecc_dashboard.py helper functions.
  */

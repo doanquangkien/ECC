@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview package manager.d
+ * @tags #infrastructure #backend
+ */
 /**
  * Package Manager Detection and Selection.
  * Supports: npm, pnpm, yarn, bun.

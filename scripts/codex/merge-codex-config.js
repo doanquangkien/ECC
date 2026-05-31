@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview merge codex config
+ * @tags #utils
+ */
 #!/usr/bin/env node
 'use strict';
 

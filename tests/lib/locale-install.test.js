@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview locale install.test
+ * @tags #utils
+ */
 /**
  * Tests for --locale translated docs installs.
  */

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview install
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * ECC CodeBuddy Installer (Cross-platform Node.js version)

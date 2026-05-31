@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview insaits security wrapper
+ * @tags #infrastructure #auth
+ */
 #!/usr/bin/env node
 /**
  * InsAIts Security Monitor - wrapper for run-with-flags compatibility.

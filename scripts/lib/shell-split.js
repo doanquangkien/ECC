@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview shell split
+ * @tags #infrastructure
+ */
 'use strict';
 
 /**

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview session inspect
+ * @tags #dashboard
+ */
 #!/usr/bin/env node
 'use strict';
 

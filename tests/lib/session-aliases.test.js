@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview session aliases.test
+ * @tags #dashboard
+ */
 /**
  * Tests for scripts/lib/session-aliases.js
  *

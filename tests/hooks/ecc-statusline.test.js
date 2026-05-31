@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview ecc statusline.test
+ * @tags #infrastructure #dashboard
+ */
 /**
  * Tests for scripts/hooks/ecc-statusline.js
  *

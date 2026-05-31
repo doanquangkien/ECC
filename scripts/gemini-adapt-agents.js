@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview gemini adapt agents
+ * @tags #utils
+ */
 #!/usr/bin/env node
 'use strict';
 

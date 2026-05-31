@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview observer memory.test
+ * @tags #infrastructure
+ */
 /**
  * Tests for observer memory explosion fix (#521)
  *

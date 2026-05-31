@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview pre bash git push reminder
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 'use strict';
 

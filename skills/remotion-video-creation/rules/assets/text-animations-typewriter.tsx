@@ -1,3 +1,7 @@
+/**
+ * @fileoverview Typewriter text animation component for Remotion video creation
+ * @tags #frontend #react #core-ui
+ */
 import {
 	AbsoluteFill,
 	interpolate,

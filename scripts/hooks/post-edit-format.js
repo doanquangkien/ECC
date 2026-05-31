@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview post edit format
+ * @tags #infrastructure #utils
+ */
 #!/usr/bin/env node
 /**
  * PostToolUse Hook: Auto-format JS/TS files after edits

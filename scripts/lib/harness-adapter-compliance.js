@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview harness adapter compliance
+ * @tags #infrastructure
+ */
 'use strict';
 
 const fs = require('fs');

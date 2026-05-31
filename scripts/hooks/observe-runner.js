@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview observe runner
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 'use strict';
 

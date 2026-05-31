@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview session activity tracker.test
+ * @tags #infrastructure #dashboard
+ */
 /**
  * Tests for session-activity-tracker.js hook.
  */

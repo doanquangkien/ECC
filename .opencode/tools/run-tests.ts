@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview run tests
+ * @tags #infrastructure #config #backend
+ */
 /**
  * Run Tests Tool
  *

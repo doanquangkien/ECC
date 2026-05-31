@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview session end
+ * @tags #infrastructure #dashboard
+ */
 #!/usr/bin/env node
 /**
  * Stop Hook (Session End) - Persist learnings during active sessions

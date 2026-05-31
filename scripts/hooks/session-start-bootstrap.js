@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview session start bootstrap
+ * @tags #infrastructure #dashboard
+ */
 #!/usr/bin/env node
 'use strict';
 

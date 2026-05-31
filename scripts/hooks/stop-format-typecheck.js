@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview stop format typecheck
+ * @tags #infrastructure #utils
+ */
 #!/usr/bin/env node
 /**
  * Stop Hook: Batch format and typecheck all JS/TS files edited this response

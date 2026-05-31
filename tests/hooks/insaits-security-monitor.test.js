@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview insaits security monitor.test
+ * @tags #infrastructure #auth
+ */
 /**
  * Subprocess tests for scripts/hooks/insaits-security-monitor.py.
  */

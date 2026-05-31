@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview plugin hook bootstrap.test
+ * @tags #infrastructure #config
+ */
 /**
  * Direct subprocess tests for scripts/hooks/plugin-hook-bootstrap.js.
  */

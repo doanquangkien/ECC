@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview auto tmux dev
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Auto-Tmux Dev Hook - Start dev servers in tmux/cmd automatically

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview agent instruction safety.test
+ * @tags #utils
+ */
 #!/usr/bin/env node
 /**
  * Validate safety guardrails on agent-facing instruction artifacts.

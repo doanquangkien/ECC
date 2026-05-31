@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview doctor.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/doctor.js
  */

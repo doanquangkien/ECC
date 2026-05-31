@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview desktop notify
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Desktop Notification Hook (Stop)

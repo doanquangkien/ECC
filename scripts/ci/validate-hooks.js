@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview validate hooks
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Validate hooks.json schema and hook entry rules.

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview install lifecycle.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/lib/install-lifecycle.js
  */

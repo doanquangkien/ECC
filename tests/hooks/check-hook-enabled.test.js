@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview check hook enabled.test
+ * @tags #infrastructure
+ */
 /**
  * Tests for scripts/hooks/check-hook-enabled.js
  *

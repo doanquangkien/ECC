@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview gemini project
+ * @tags #infrastructure
+ */
 const { createInstallTargetAdapter } = require('./helpers');
 
 module.exports = createInstallTargetAdapter({

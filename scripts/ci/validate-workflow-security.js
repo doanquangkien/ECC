@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview validate workflow security
+ * @tags #infrastructure #auth
+ */
 #!/usr/bin/env node
 /**
  * Reject unsafe GitHub Actions patterns that execute or checkout untrusted PR code

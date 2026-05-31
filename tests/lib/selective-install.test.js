@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview selective install.test
+ * @tags #utils
+ */
 /**
  * Tests for --with / --without selective install flags (issue #470)
  *

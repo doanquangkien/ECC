@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview uninstall.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/uninstall.js
  */

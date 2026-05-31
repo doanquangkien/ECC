@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview ecc
+ * @tags #utils
+ */
 #!/usr/bin/env node
 
 const { spawnSync } = require('child_process');

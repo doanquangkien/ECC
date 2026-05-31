@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview qwen home
+ * @tags #infrastructure
+ */
 const { createInstallTargetAdapter } = require('./helpers');
 
 module.exports = createInstallTargetAdapter({

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview openclaw persona forge gacha.test
+ * @tags #utils
+ */
 const assert = require('assert');
 const path = require('path');
 const { spawnSync } = require('child_process');

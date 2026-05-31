@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview no personal paths.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/ci/validate-no-personal-paths.js.
  *

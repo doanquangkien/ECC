@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview validate agents
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Validate agent markdown files have required frontmatter

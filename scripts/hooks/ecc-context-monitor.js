@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview ecc context monitor
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * ECC Context Monitor — PostToolUse hook

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview block no verify.test
+ * @tags #infrastructure #auth
+ */
 /**
  * Tests for scripts/hooks/block-no-verify.js via run-with-flags.js
  */

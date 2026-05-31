@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview session start
+ * @tags #infrastructure #dashboard
+ */
 #!/usr/bin/env node
 /**
  * SessionStart Hook - Load previous context on new session

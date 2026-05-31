@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview trae install.test
+ * @tags #utils
+ */
 /**
  * Tests for .trae/install.sh and .trae/uninstall.sh
  */

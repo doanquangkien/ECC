@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview tmux worktree orchestrator
+ * @tags #infrastructure
+ */
 'use strict';
 
 const fs = require('fs');

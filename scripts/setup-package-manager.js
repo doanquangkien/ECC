@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview setup package manager
+ * @tags #utils
+ */
 #!/usr/bin/env node
 /**
  * Package Manager Setup Script

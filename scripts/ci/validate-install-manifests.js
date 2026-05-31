@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview validate install manifests
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Validate selective-install manifests and profile/module relationships.

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview gemini adapt agents.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/gemini-adapt-agents.js
  */

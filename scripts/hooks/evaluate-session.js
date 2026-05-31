@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview evaluate session
+ * @tags #infrastructure #dashboard
+ */
 #!/usr/bin/env node
 /**
  * Continuous Learning - Session Evaluator

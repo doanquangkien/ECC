@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview bash hook dispatcher.test
+ * @tags #infrastructure
+ */
 /**
  * Tests for consolidated Bash hook dispatchers.
  */

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview check console log
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 
 /**

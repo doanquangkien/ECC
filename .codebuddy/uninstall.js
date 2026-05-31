@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview uninstall
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * ECC CodeBuddy Uninstaller (Cross-platform Node.js version)

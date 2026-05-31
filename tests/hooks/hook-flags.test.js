@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview hook flags.test
+ * @tags #infrastructure
+ */
 /**
  * Tests for scripts/lib/hook-flags.js
  *

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview claw
+ * @tags #utils
+ */
 #!/usr/bin/env node
 /**
  * NanoClaw v2 — Barebones Agent REPL for Everything Claude Code

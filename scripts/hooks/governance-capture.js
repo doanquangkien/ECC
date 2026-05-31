@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview governance capture
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Governance Event Capture Hook

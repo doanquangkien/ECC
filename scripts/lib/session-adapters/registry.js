@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview registry
+ * @tags #infrastructure #dashboard
+ */
 'use strict';
 
 const { createClaudeHistoryAdapter } = require('./claude-history');

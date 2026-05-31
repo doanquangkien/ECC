@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview post edit accumulator
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * PostToolUse Hook: Accumulate edited JS/TS file paths for batch processing

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview shell split.test
+ * @tags #utils
+ */
 'use strict';
 const assert = require('assert');
 const { splitShellSegments } = require('../../scripts/lib/shell-split');

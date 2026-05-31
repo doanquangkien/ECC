@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview post bash pr created
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 'use strict';
 

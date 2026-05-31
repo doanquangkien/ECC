@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview mcp health check
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 'use strict';
 

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview command registry.test
+ * @tags #utils
+ */
 /**
  * Direct coverage for scripts/ci/generate-command-registry.js.
  */

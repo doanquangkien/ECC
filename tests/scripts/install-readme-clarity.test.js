@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview install readme clarity.test
+ * @tags #utils
+ */
 /**
  * Regression coverage for install/uninstall clarity in README.md.
  */

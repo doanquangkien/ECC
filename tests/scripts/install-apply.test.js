@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview install apply.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/install-apply.js
  */

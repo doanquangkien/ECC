@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview validate workflow security.test
+ * @tags #auth
+ */
 #!/usr/bin/env node
 /**
  * Validate workflow security guardrails for privileged GitHub Actions events.

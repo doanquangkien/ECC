@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview mcp config
+ * @tags #infrastructure
+ */
 'use strict';
 
 function parseDisabledMcpServers(value) {

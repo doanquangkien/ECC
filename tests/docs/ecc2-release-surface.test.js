@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview ecc2 release surface.test
+ * @tags #utils
+ */
 'use strict';
 
 const assert = require('assert');

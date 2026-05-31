@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview install sh.test
+ * @tags #utils
+ */
 /**
  * Tests for install.sh wrapper delegation
  */

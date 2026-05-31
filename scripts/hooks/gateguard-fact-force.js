@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview gateguard fact force
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * PreToolUse Hook: GateGuard Fact-Forcing Gate

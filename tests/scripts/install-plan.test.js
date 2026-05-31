@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview install plan.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/install-plan.js
  */

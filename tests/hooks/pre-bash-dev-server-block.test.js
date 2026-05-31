@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview pre bash dev server block.test
+ * @tags #infrastructure
+ */
 /**
  * Tests for pre-bash-dev-server-block.js hook
  *

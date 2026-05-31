@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview cost tracker
+ * @tags #infrastructure #dashboard
+ */
 #!/usr/bin/env node
 /**
  * Cost Tracker Hook (v2)

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview release video suite
+ * @tags #frontend
+ */
 #!/usr/bin/env node
 'use strict';
 

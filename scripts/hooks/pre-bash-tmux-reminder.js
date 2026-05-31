@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview pre bash tmux reminder
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 'use strict';
 

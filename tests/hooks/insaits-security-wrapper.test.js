@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview insaits security wrapper.test
+ * @tags #infrastructure #auth
+ */
 /**
  * Tests for scripts/hooks/insaits-security-wrapper.js.
  */

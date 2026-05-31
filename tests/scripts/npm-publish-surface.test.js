@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview npm publish surface.test
+ * @tags #utils
+ */
 /**
  * Tests for the npm publish surface contract.
  */

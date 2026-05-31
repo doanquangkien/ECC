@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview health
+ * @tags #infrastructure
+ */
 'use strict';
 
 const HEALTH_SCHEMA_VERSION = 'ecc.skill-health.v1';

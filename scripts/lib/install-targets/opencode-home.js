@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview opencode home
+ * @tags #infrastructure #config
+ */
 const { createInstallTargetAdapter } = require('./helpers');
 
 module.exports = createInstallTargetAdapter({

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview changed files
+ * @tags #infrastructure #config #backend
+ */
 import { tool, type ToolDefinition } from "@opencode-ai/plugin/tool"
 import {
   buildTree,

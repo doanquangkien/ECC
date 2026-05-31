@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview catalog
+ * @tags #utils
+ */
 #!/usr/bin/env node
 
 const {

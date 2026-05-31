@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview cost tracker.test
+ * @tags #infrastructure #dashboard
+ */
 /**
  * Tests for cost-tracker.js hook
  *

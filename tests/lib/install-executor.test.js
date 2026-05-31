@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview install executor.test
+ * @tags #utils
+ */
 /**
  * Direct tests for scripts/lib/install-executor.js.
  */

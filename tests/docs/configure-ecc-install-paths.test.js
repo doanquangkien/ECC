@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview configure ecc install paths.test
+ * @tags #utils
+ */
 'use strict';
 
 const assert = require('assert');

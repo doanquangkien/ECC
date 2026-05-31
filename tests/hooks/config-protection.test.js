@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview config protection.test
+ * @tags #infrastructure
+ */
 /**
  * Tests for scripts/hooks/config-protection.js via run-with-flags.js
  */

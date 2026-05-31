@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview session aliases.d
+ * @tags #infrastructure #dashboard #backend
+ */
 /**
  * Session Aliases Library for Claude Code.
  * Manages named aliases for session files, stored in ~/.claude/session-aliases.json.

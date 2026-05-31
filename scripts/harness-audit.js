@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview harness audit
+ * @tags #auth
+ */
 #!/usr/bin/env node
 
 const fs = require('fs');

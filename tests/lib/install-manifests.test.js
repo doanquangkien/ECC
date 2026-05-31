@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview install manifests.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/lib/install-manifests.js
  */

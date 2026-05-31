@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview bash hook dispatcher
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 'use strict';
 

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview before tab file read
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 const { readStdin } = require('./adapter');
 readStdin().then(raw => {

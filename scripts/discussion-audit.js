@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview discussion audit
+ * @tags #auth
+ */
 #!/usr/bin/env node
 'use strict';
 

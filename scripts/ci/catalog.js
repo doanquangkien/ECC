@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview catalog
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Verify repo catalog counts against tracked documentation files.

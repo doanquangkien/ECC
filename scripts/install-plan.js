@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview install plan
+ * @tags #utils
+ */
 #!/usr/bin/env node
 /**
  * Inspect selective-install profiles and module plans without mutating targets.

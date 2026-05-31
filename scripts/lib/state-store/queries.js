@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview queries
+ * @tags #infrastructure
+ */
 'use strict';
 
 const { assertValidEntity } = require('./schema');

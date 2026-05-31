@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview doc file warning
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Doc file warning hook (PreToolUse - Write)

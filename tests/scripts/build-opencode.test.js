@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview build opencode.test
+ * @tags #infrastructure #config
+ */
 /**
  * Tests for scripts/build-opencode.js
  */

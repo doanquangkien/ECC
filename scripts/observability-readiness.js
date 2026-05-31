@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview observability readiness
+ * @tags #utils
+ */
 #!/usr/bin/env node
 'use strict';
 

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview post edit console warn
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * PostToolUse Hook: Warn about console.log statements after edits

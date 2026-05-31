@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview validate commands
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Validate command markdown files are non-empty, readable,

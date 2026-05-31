@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview shell substitution
+ * @tags #infrastructure
+ */
 'use strict';
 
 /**

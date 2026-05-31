@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview platform audit.test
+ * @tags #auth
+ */
 /**
  * Tests for scripts/platform-audit.js
  */

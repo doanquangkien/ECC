@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview observer sessions.test
+ * @tags #dashboard
+ */
 const assert = require('assert');
 const fs = require('fs');
 const os = require('os');

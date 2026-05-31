@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview quality gate.test
+ * @tags #infrastructure #utils
+ */
 /**
  * Tests for scripts/hooks/quality-gate.js
  *

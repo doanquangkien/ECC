@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview codex config.test
+ * @tags #utils
+ */
 /**
  * Tests for `.codex/config.toml` reference defaults.
  *

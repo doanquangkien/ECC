@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview sync ecc to codex.test
+ * @tags #utils
+ */
 /**
  * Source-level tests for scripts/sync-ecc-to-codex.sh
  */

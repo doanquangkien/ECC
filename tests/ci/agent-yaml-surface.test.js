@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview agent yaml surface.test
+ * @tags #utils
+ */
 #!/usr/bin/env node
 /**
  * Validate agent.yaml exports the legacy command shim surface.

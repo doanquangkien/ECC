@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview auto update.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/auto-update.js
  */

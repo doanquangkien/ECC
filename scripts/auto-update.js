@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview auto update
+ * @tags #utils
+ */
 #!/usr/bin/env node
 
 const fs = require('fs');

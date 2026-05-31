@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview release.test
+ * @tags #utils
+ */
 /**
  * Source-level tests for scripts/release.sh
  */

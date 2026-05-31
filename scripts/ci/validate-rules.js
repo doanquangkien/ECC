@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview validate rules
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Validate rule markdown files

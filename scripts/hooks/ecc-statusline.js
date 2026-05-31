@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview ecc statusline
+ * @tags #infrastructure #dashboard
+ */
 #!/usr/bin/env node
 /**
  * ECC Statusline — statusLine command

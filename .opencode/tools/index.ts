@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview index
+ * @tags #infrastructure #config #backend
+ */
 /**
  * ECC Custom Tools for OpenCode
  *

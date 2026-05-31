@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview session manager.test
+ * @tags #dashboard
+ */
 /**
  * Tests for scripts/lib/session-manager.js
  *

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview check hook enabled
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 'use strict';
 

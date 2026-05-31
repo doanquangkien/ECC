@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview after shell execution
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 const { readStdin, hookEnabled } = require('./adapter');
 

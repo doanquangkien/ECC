@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview mcp management docs.test
+ * @tags #utils
+ */
 'use strict';
 
 const assert = require('assert');

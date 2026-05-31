@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview design quality check
+ * @tags #infrastructure #utils
+ */
 #!/usr/bin/env node
 /**
  * PostToolUse hook: lightweight frontend design-quality reminder.

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview mcp health check.test
+ * @tags #infrastructure
+ */
 /**
  * Tests for scripts/hooks/mcp-health-check.js
  *

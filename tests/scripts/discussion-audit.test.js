@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview discussion audit.test
+ * @tags #auth
+ */
 /**
  * Tests for scripts/discussion-audit.js
  */

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview session bridge
+ * @tags #infrastructure #dashboard
+ */
 'use strict';
 
 /**

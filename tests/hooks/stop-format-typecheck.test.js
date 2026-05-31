@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview stop format typecheck.test
+ * @tags #infrastructure #utils
+ */
 /**
  * Tests for scripts/hooks/post-edit-accumulator.js and
  *           scripts/hooks/stop-format-typecheck.js

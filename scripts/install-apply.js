@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview install apply
+ * @tags #utils
+ */
 #!/usr/bin/env node
 /**
  * Refactored ECC installer runtime.

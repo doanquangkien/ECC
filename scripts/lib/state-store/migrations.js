@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview migrations
+ * @tags #infrastructure
+ */
 'use strict';
 
 const INITIAL_SCHEMA_SQL = `

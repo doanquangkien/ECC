@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview install targets.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/lib/install-targets/registry.js
  */

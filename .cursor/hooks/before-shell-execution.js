@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview before shell execution
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 const { readStdin, hookEnabled } = require('./adapter');
 const { splitShellSegments } = require('../../scripts/lib/shell-split');

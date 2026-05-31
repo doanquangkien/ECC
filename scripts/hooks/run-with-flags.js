@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview run with flags
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Executes a hook script only when enabled by ECC hook profile flags.

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview dashboard
+ * @tags #infrastructure
+ */
 'use strict';
 
 const health = require('./health');

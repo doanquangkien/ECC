@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview plugin manifest.test
+ * @tags #infrastructure #config
+ */
 /**
  * Tests for plugin manifests:
  *   - .claude-plugin/plugin.json (Claude Code plugin)

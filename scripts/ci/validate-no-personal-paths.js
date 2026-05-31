@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview validate no personal paths
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 /**
  * Prevent shipping user-specific absolute paths in public docs/skills/commands.

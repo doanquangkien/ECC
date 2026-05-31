@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview harness audit.test
+ * @tags #auth
+ */
 /**
  * Tests for scripts/harness-audit.js
  */

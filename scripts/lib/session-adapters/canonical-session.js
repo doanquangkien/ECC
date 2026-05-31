@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview canonical session
+ * @tags #infrastructure #dashboard
+ */
 'use strict';
 
 const fs = require('fs');

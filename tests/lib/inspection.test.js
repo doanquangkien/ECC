@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview inspection.test
+ * @tags #utils
+ */
 /**
  * Tests for inspection logic — pattern detection from failures.
  */

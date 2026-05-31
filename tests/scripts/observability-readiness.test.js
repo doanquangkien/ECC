@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview observability readiness.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/observability-readiness.js
  */

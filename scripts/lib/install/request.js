@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview request
+ * @tags #infrastructure
+ */
 'use strict';
 
 const { validateInstallModuleIds, LOCALE_ALIAS_TO_COMPONENT_ID, listSupportedLocales } = require('../install-manifests');

@@ -1,3 +1,7 @@
+/**
+ * @fileoverview Bar chart component for Remotion video creation
+ * @tags #frontend #react #core-ui
+ */
 import {loadFont} from '@remotion/google-fonts/Inter';
 import {AbsoluteFill, spring, useCurrentFrame, useVideoConfig} from 'remotion';
 

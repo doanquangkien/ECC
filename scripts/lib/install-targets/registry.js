@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview registry
+ * @tags #infrastructure
+ */
 const antigravityProject = require('./antigravity-project');
 const claudeHome = require('./claude-home');
 const claudeProject = require('./claude-project');

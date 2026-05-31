@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview install state.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/lib/install-state.js
  */

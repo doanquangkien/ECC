@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview catalog.test
+ * @tags #utils
+ */
 /**
  * Direct coverage for scripts/ci/catalog.js.
  */

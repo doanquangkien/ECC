@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview dmux tmux
+ * @tags #infrastructure #dashboard
+ */
 'use strict';
 
 const fs = require('fs');

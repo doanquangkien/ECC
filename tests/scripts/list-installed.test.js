@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview list installed.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/list-installed.js
  */

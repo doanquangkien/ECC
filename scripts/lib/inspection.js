@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview inspection
+ * @tags #infrastructure
+ */
 'use strict';
 
 const DEFAULT_FAILURE_THRESHOLD = 3;

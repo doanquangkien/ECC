@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview check unicode safety
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 
 const fs = require('fs');

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview cursor project
+ * @tags #infrastructure
+ */
 const fs = require('fs');
 const path = require('path');
 

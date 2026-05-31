@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview state store.test
+ * @tags #utils
+ */
 /**
  * Tests for the SQLite-backed ECC state store and CLI commands.
  */

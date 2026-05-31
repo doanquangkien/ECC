@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview project detect.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/lib/project-detect.js
  *

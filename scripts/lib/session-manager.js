@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview session manager
+ * @tags #infrastructure #dashboard
+ */
 /**
  * Session Manager Library for Claude Code
  * Provides core session CRUD operations for listing, loading, and managing sessions

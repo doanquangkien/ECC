@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview release approval gate.test
+ * @tags #utils
+ */
 'use strict';
 
 const assert = require('assert');

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview design quality check.test
+ * @tags #infrastructure #utils
+ */
 /**
  * Tests for scripts/hooks/design-quality-check.js
  *

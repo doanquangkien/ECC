@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview harness adapter compliance
+ * @tags #utils
+ */
 #!/usr/bin/env node
 'use strict';
 

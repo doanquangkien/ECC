@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview manual hook install docs.test
+ * @tags #infrastructure
+ */
 /**
  * Regression coverage for supported manual Claude hook installation guidance.
  */

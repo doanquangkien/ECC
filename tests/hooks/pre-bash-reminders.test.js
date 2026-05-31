@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview pre bash reminders.test
+ * @tags #infrastructure
+ */
 /**
  * Tests for pre-bash-git-push-reminder.js and pre-bash-tmux-reminder.js hooks
  *

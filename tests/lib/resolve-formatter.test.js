@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview resolve formatter.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/lib/resolve-formatter.js
  *

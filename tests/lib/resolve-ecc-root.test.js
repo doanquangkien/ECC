@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview resolve ecc root.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/lib/resolve-ecc-root.js
  *

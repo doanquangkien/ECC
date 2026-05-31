@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview cost estimate.test
+ * @tags #dashboard
+ */
 /**
  * Tests for scripts/lib/cost-estimate.js
  *

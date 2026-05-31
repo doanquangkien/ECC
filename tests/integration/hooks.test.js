@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview hooks.test
+ * @tags #infrastructure
+ */
 /**
  * Integration tests for hook scripts
  *

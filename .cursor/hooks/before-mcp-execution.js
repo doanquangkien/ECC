@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview before mcp execution
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 const { readStdin } = require('./adapter');
 readStdin().then(raw => {

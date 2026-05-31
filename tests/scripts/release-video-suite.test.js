@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview release video suite.test
+ * @tags #frontend
+ */
 /**
  * Tests for scripts/release-video-suite.js
  */

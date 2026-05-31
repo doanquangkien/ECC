@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview antigravity project
+ * @tags #infrastructure
+ */
 const path = require('path');
 
 const {

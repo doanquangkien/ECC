@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview index
+ * @tags #infrastructure #config #backend
+ */
 /**
  * ECC Plugin for OpenCode
  *

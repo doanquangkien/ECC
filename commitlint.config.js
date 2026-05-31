@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview commitlint.config
+ * @tags #utils
+ */
 module.exports = {
   extends: ['@commitlint/config-conventional'],
   rules: {

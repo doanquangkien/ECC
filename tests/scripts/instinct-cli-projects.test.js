@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview instinct cli projects.test
+ * @tags #utils
+ */
 const assert = require('assert');
 const fs = require('fs');
 const os = require('os');

@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview install config.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/lib/install/config.js
  */

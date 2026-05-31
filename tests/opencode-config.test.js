@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview opencode config.test
+ * @tags #infrastructure #config
+ */
 /**
  * Tests for .opencode/opencode.json local file references.
  *

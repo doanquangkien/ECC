@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview after file edit
+ * @tags #infrastructure
+ */
 #!/usr/bin/env node
 const { hookEnabled, readStdin, runExistingHook, transformToClaude } = require('./adapter');
 readStdin().then(raw => {

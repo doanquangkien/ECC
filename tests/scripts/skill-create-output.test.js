@@ -1,3 +1,7 @@
+﻿/**
+ * @fileoverview skill create output.test
+ * @tags #utils
+ */
 /**
  * Tests for scripts/skill-create-output.js
  *
